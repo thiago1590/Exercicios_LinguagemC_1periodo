@@ -1,2 +1,2 @@
-# Exercicios_LinguagemC_1periodo
+# Exercícios Linguagem C 1periodo
  
